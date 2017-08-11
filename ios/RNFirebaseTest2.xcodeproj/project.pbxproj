@@ -1141,6 +1141,7 @@
 				CURRENT_PROJECT_VERSION = 1;
 				DEAD_CODE_STRIPPING = NO;
 				DEVELOPMENT_TEAM = WD7QR8BY35;
+				ENABLE_BITCODE = NO;
 				INFOPLIST_FILE = RNFirebaseTest2/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				OTHER_LDFLAGS = (
@@ -1165,6 +1166,7 @@
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer: Soma Dombi (A7VQUR4LF6)";
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = WD7QR8BY35;
+				ENABLE_BITCODE = NO;
 				INFOPLIST_FILE = RNFirebaseTest2/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				OTHER_LDFLAGS = (
