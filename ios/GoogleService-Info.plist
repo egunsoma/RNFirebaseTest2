@@ -7,21 +7,21 @@
 	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
 	<string>ca-app-pub-3940256099942544/4411468910</string>
 	<key>CLIENT_ID</key>
-	<string>255800007382-lsdecp0nm3elaasmha0fn8bfa136h15b.apps.googleusercontent.com</string>
+	<string>468785435371-55h137hlg4krvoqosomu7g2c2u6rdl2d.apps.googleusercontent.com</string>
 	<key>REVERSED_CLIENT_ID</key>
-	<string>com.googleusercontent.apps.255800007382-lsdecp0nm3elaasmha0fn8bfa136h15b</string>
+	<string>com.googleusercontent.apps.468785435371-55h137hlg4krvoqosomu7g2c2u6rdl2d</string>
 	<key>API_KEY</key>
-	<string>AIzaSyCPof5PSEDhndv4OHMtpj0tH3zxAXvjZUo</string>
+	<string>AIzaSyADuavH2TgI83HNV7IrlJ0J_m2hfks1x_4</string>
 	<key>GCM_SENDER_ID</key>
-	<string>255800007382</string>
+	<string>468785435371</string>
 	<key>PLIST_VERSION</key>
 	<string>1</string>
 	<key>BUNDLE_ID</key>
 	<string>com.irontech.skrechy</string>
 	<key>PROJECT_ID</key>
-	<string>skrechy-production</string>
+	<string>rnfirebasetest-7f5e5</string>
 	<key>STORAGE_BUCKET</key>
-	<string>skrechy-production.appspot.com</string>
+	<string>rnfirebasetest-7f5e5.appspot.com</string>
 	<key>IS_ADS_ENABLED</key>
 	<true/>
 	<key>IS_ANALYTICS_ENABLED</key>
@@ -33,8 +33,8 @@
 	<key>IS_SIGNIN_ENABLED</key>
 	<true/>
 	<key>GOOGLE_APP_ID</key>
-	<string>1:255800007382:ios:78d30414f64564fd</string>
+	<string>1:468785435371:ios:78d30414f64564fd</string>
 	<key>DATABASE_URL</key>
-	<string>https://skrechy-production.firebaseio.com</string>
+	<string>https://rnfirebasetest-7f5e5.firebaseio.com</string>
 </dict>
 </plist>

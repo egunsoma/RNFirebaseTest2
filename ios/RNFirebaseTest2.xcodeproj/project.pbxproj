@@ -37,7 +37,7 @@
 		5E9157361DD0AC6A00FF2AA8 /* libRCTAnimation.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 5E9157331DD0AC6500FF2AA8 /* libRCTAnimation.a */; };
 		7D3EA06BABB065509FC2CA7A /* libPods-RNFirebaseTest2.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 5C47C134B49A8F184BF7A8CB /* libPods-RNFirebaseTest2.a */; };
 		832341BD1AAA6AB300B99B32 /* libRCTText.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 832341B51AAA6A8300B99B32 /* libRCTText.a */; };
-		CCAD0CD31F39C93600642DF7 /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = CCAD0CD21F39C93600642DF7 /* GoogleService-Info.plist */; };
+		CCDC47F01F3DCEEF00301C64 /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = CCDC47EF1F3DCEEF00301C64 /* GoogleService-Info.plist */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -288,7 +288,7 @@
 		78C398B01ACF4ADC00677621 /* RCTLinking.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = RCTLinking.xcodeproj; path = "../node_modules/react-native/Libraries/LinkingIOS/RCTLinking.xcodeproj"; sourceTree = "<group>"; };
 		79540422E3259E56F74FA918 /* Pods-RNFirebaseTest2.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-RNFirebaseTest2.release.xcconfig"; path = "Pods/Target Support Files/Pods-RNFirebaseTest2/Pods-RNFirebaseTest2.release.xcconfig"; sourceTree = "<group>"; };
 		832341B01AAA6A8300B99B32 /* RCTText.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = RCTText.xcodeproj; path = "../node_modules/react-native/Libraries/Text/RCTText.xcodeproj"; sourceTree = "<group>"; };
-		CCAD0CD21F39C93600642DF7 /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
+		CCDC47EF1F3DCEEF00301C64 /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -424,7 +424,7 @@
 		13B07FAE1A68108700A75B9A /* RNFirebaseTest2 */ = {
 			isa = PBXGroup;
 			children = (
-				CCAD0CD21F39C93600642DF7 /* GoogleService-Info.plist */,
+				CCDC47EF1F3DCEEF00301C64 /* GoogleService-Info.plist */,
 				008F07F21AC5B25A0029DE68 /* main.jsbundle */,
 				13B07FAF1A68108700A75B9A /* AppDelegate.h */,
 				13B07FB01A68108700A75B9A /* AppDelegate.m */,
@@ -935,7 +935,7 @@
 			files = (
 				13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */,
 				13B07FBD1A68108700A75B9A /* LaunchScreen.xib in Resources */,
-				CCAD0CD31F39C93600642DF7 /* GoogleService-Info.plist in Resources */,
+				CCDC47F01F3DCEEF00301C64 /* GoogleService-Info.plist in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

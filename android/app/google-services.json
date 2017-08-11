@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "468785435371",
+    "firebase_url": "https://rnfirebasetest-7f5e5.firebaseio.com",
+    "project_id": "rnfirebasetest-7f5e5",
+    "storage_bucket": "rnfirebasetest-7f5e5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:468785435371:android:854b115b8669f2cc",
+        "android_client_info": {
+          "package_name": "com.skrechy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "468785435371-e5hmqnoeu78oarc1qvjo91rk15vp85t4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYHfsS7Ni0M3MUR6_mFSLG13Z0USBaWSs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
