@@ -8,9 +8,9 @@
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:468785435371:android:854b115b8669f2cc",
+        "mobilesdk_app_id": "1:468785435371:android:2a17e94ea2fd8f7d",
         "android_client_info": {
-          "package_name": "com.skrechy"
+          "package_name": "com.rnfirebasetest2"
         }
       },
       "oauth_client": [
